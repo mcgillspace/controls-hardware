@@ -1,0 +1,29 @@
+PCAD Importer Log
+Project : EXB-38V101JV.LibPkg
+
+Section : C:\Users\david\OneDrive\Documents\MSG\ADCS\upsat-adcs-hardware\cad\EXB-38V101JV\EXB-38V101JV.lia
+    Section : PCB Library - EXB-38V101JV.PcbLib
+        Section : Load Messages
+            Warning - 1 : Skipping Token EXB-38V101JV On Line 137
+            Warning - 1 : Skipping Token attachedSymbol On Line 189
+        EndSection
+
+        Section : Import Messages
+        EndSection
+    EndSection
+
+    Section : SCH Library - EXB-38V101JV.SchLib
+        Section : Parsing Messages
+            Warning - 1 : Skipping Token padStyleDef On Line 9
+            Warning - 1 : Skipping Token padStyleDef On Line 21
+            Warning - 1 : Skipping Token multiLayer On Line 96
+            Warning - 1 : Skipping Token layerContents On Line 106
+            Warning - 1 : Skipping Token layerContents On Line 115
+            Warning - 1 : Skipping Token layerContents On Line 124
+            Warning - 1 : Skipping Token layerContents On Line 129
+        EndSection
+
+        Section : Generating SCH Library - EXB-38V101JV.SchLib
+        EndSection
+    EndSection
+EndSection

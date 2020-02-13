@@ -1,0 +1,4 @@
+schematics Main.sch
+output-name Main
+elements-dir ./SYM
+elements-dir /usr/share/pcb/pcblib-newlib

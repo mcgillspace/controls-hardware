@@ -1,0 +1,12 @@
+;;(component-library "./SYM")
+;;(component-library-search ".")
+
+(component-library ".")
+(component-library "./SYM")
+(source-library ".")
+;;(source-library "./SYM")
+
+;;(output-color "enabled")
+;;(image-color "enabled") 
+
+

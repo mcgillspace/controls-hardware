@@ -1,0 +1,28 @@
+PCAD Importer Log
+Project : ABM3-12.000MHZ-D2Y-T.LibPkg
+
+Section : C:\Users\david\OneDrive\Documents\MSG\ADCS\upsat-adcs-hardware\cad\ABM3-12.000MHZ-D2Y-T\ABM3-12.000MHZ-D2Y-T.lia
+    Section : PCB Library - ABM3-12.000MHZ-D2Y-T.PcbLib
+        Section : Load Messages
+            Warning - 1 : Skipping Token ABM3-12.000MHZ-D2Y-T On Line 112
+            Warning - 1 : Skipping Token attachedSymbol On Line 163
+        EndSection
+
+        Section : Import Messages
+        EndSection
+    EndSection
+
+    Section : SCH Library - ABM3-12.000MHZ-D2Y-T.SchLib
+        Section : Parsing Messages
+            Warning - 1 : Skipping Token padStyleDef On Line 9
+            Warning - 1 : Skipping Token multiLayer On Line 84
+            Warning - 1 : Skipping Token layerContents On Line 88
+            Warning - 1 : Skipping Token layerContents On Line 92
+            Warning - 1 : Skipping Token layerContents On Line 98
+            Warning - 1 : Skipping Token layerContents On Line 104
+        EndSection
+
+        Section : Generating SCH Library - ABM3-12.000MHZ-D2Y-T.SchLib
+        EndSection
+    EndSection
+EndSection

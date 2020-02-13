@@ -1,0 +1,28 @@
+PCAD Importer Log
+Project : STM32F031G6U6.LibPkg
+
+Section : C:\Users\david\OneDrive\Documents\MSG\ADCS\upsat-adcs-hardware\cad\STM32F031G6U6\STM32F031G6U6.lia
+    Section : PCB Library - STM32F031G6U6.PcbLib
+        Section : Load Messages
+            Warning - 1 : Skipping Token STM32F031G6U6 On Line 149
+            Warning - 1 : Skipping Token attachedSymbol On Line 456
+        EndSection
+
+        Section : Import Messages
+        EndSection
+    EndSection
+
+    Section : SCH Library - STM32F031G6U6.SchLib
+        Section : Parsing Messages
+            Warning - 1 : Skipping Token padStyleDef On Line 9
+            Warning - 1 : Skipping Token multiLayer On Line 84
+            Warning - 1 : Skipping Token layerContents On Line 114
+            Warning - 1 : Skipping Token layerContents On Line 120
+            Warning - 1 : Skipping Token layerContents On Line 131
+            Warning - 1 : Skipping Token layerContents On Line 139
+        EndSection
+
+        Section : Generating SCH Library - STM32F031G6U6.SchLib
+        EndSection
+    EndSection
+EndSection
